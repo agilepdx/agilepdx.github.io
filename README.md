@@ -2,7 +2,7 @@
 
 ## Contact
 
-Contact the coordinating committee at [agilepdxcoordinating@googlegroups.com](agilepdxcoordinating@googlegroups.com).
+Contact the coordinating committee at <agilepdxcoordinating@googlegroups.com>.
 
 ## Contributing
 
