@@ -31,10 +31,10 @@ div.main {
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 20px;
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 	z-index:1;
 	overflow: hidden;
-	-moz-border-radius: 6px 6px 6px 6px;
+	border-radius: 6px 6px 6px 6px;
 }
 
 div.content {
